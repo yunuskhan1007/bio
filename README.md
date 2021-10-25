@@ -9,7 +9,7 @@
 </head>
 <body class="main">
     
-    <div>
+    
     <h1 align="center"> Curriculum vitae </h1>
     <div class="main">
     <img border="2px" width="138px" height="190px" align="left" src="image1.jfif"/>
@@ -28,7 +28,7 @@
        </br><h4> <i>Contact Address </br> Plot no - 35/B/02 </br> Shivaji Nagar  </br> Govandi
        </br> District - Mumbai </br> State - Maharashtra </br> Pin Code - 400043 </br> Mobile no - 9136519859
         </i></h4></p>
-</div>
+
 
             <div class="location">
             <h3> Location</h3>
